@@ -1,0 +1,73 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-03-21 08:58:31.937583",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "qty",
+  "merma",
+  "qty_total",
+  "item_code",
+  "item_name"
+ ],
+ "fields": [
+  {
+   "fieldname": "item_code",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Codigo",
+   "options": "Item",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "item_code.description",
+   "fieldname": "item_name",
+   "fieldtype": "Read Only",
+   "in_list_view": 1,
+   "label": "Descripcion"
+  },
+  {
+   "columns": 1,
+   "fieldname": "qty",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "Cantidad",
+   "precision": "2",
+   "reqd": 1
+  },
+  {
+   "columns": 1,
+   "default": "0.00",
+   "fieldname": "merma",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "Merma",
+   "precision": "2"
+  },
+  {
+   "bold": 1,
+   "columns": 1,
+   "fieldname": "qty_total",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "Cantidad Final",
+   "precision": "2",
+   "read_only": 1
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-03-21 13:12:46.025312",
+ "modified_by": "Administrator",
+ "module": "Stock Management",
+ "name": "Stock Entry Detail",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

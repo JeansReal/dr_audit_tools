@@ -1,0 +1,106 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:53:16.345510",
+  "name": "Inventario inicial",
+  "reason_name": "Inventario inicial",
+  "type": "Entrada"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:53:21.413306",
+  "name": "Ventas a clientes",
+  "reason_name": "Ventas a clientes",
+  "type": "Salida"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:52:03.386277",
+  "name": "Ajuste por destarado",
+  "reason_name": "Ajuste por destarado",
+  "type": "Ajuste"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:52:31.807117",
+  "name": "Ajuste por faltantes en conteo físico - cierre de bodega",
+  "reason_name": "Ajuste por faltantes en conteo físico - cierre de bodega",
+  "type": "Ajuste"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:52:35.356802",
+  "name": "Ajuste por sobrante en conteo físico - cierre de bodega",
+  "reason_name": "Ajuste por sobrante en conteo físico - cierre de bodega",
+  "type": "Ajuste"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:52:38.377681",
+  "name": "Ajuste por merma de manejo",
+  "reason_name": "Ajuste por merma de manejo",
+  "type": "Ajuste"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:53:27.719550",
+  "name": "Cambio de producto a clientes",
+  "reason_name": "Cambio de producto a clientes",
+  "type": "Salida"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:53:30.998677",
+  "name": "Salidas por devolución proveedores",
+  "reason_name": "Salidas por devolución proveedores",
+  "type": "Salida"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:53:38.335702",
+  "name": "Salidas por traslado enter bodegas",
+  "reason_name": "Salidas por traslado enter bodegas",
+  "type": "Salida"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:53:43.374962",
+  "name": "Salidas para destrucción de producto",
+  "reason_name": "Salidas para destrucción de producto",
+  "type": "Salida"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:54:11.096362",
+  "name": "Compras Cargill",
+  "reason_name": "Compras Cargill",
+  "type": "Entrada"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:54:31.573689",
+  "name": "Devoluciones de producto - Buen estado",
+  "reason_name": "Devoluciones de producto - Buen estado",
+  "type": "Entrada"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Stock Entry Reason",
+  "modified": "2025-03-21 12:54:35.464573",
+  "name": "Devoluciones de producto - Mal estado",
+  "reason_name": "Devoluciones de producto - Mal estado",
+  "type": "Entrada"
+ }
+]

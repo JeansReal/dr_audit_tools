@@ -1,0 +1,554 @@
+[
+ {
+  "description": "AVK - Aros De Cebolla",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 09:04:28.358570",
+  "name": "AVIK0001",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "AVK - Papa 3/8 C. Recto grado B",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 09:36:30.173951",
+  "name": "AVIK0003",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "AVK - Papas 3/8 Corte Recto 1Kg",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 09:36:41.160065",
+  "name": "AVIK0004",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "AVK - Papa Onduladas 750g",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:55:26.318313",
+  "name": "AVIK0007",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "AVK - Papas 3/8 Premium Crunch",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:55:12.750929",
+  "name": "AVIK0005",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "AVK - Papa 1/4 Corte Recto",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:55:39.980572",
+  "name": "AVIK0009",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "AVK - Papa 3/8 Corte Recto",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:55:46.159092",
+  "name": "AVIK0010",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Disanic - Chuleton",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:55:56.405849",
+  "name": "DISA0001",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Disanic - Lomo De Cerdo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:02.315964",
+  "name": "DISA0003",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Disanic - Hueso Cortado",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:07.580869",
+  "name": "DISA0005",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Disanic - Posta De Cerdo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:12.341439",
+  "name": "DISA0006",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Del Sur - Selecto",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:32.532984",
+  "name": "EMBU0006",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Entero Repro",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:37.389443",
+  "name": "KIMB0003",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Higado",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:42.442016",
+  "name": "KIMB0005",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Hueso CG",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:47.661931",
+  "name": "KIMB0006",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Medio Pollo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:52.557471",
+  "name": "KIMB0007",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Menudos",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:56:59.496774",
+  "name": "KIMB0008",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Kb - Pierna Entera",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:57:13.841711",
+  "name": "KIMB0011",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Pierna Entera Americana Jumbo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:57:55.946452",
+  "name": "KIMB0012",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Pierna Entera Repro",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:58:31.558947",
+  "name": "KIMB0016",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Pieza Clase  C",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:58:36.181060",
+  "name": "KIMB0017",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Pieza Corte 7",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:58:40.823237",
+  "name": "KIMB0018",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kb - Entero Sin Menudo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:58:49.690723",
+  "name": "KIMB0027",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Alas",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:58:55.699102",
+  "name": "KING0001",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Bandeja De Filete De Pollo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:00.001941",
+  "name": "KING0002",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Conito",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:04.762798",
+  "name": "KING0004",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Entero Americano",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:09.470237",
+  "name": "KING0005",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Filete En Bolsa",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:13.884589",
+  "name": "KING0007",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Pierna Americana",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:19.375545",
+  "name": "KING0012",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Costilla De Marrano",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:27.287859",
+  "name": "KING0014",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Lomo De Cerdo Con Hueso",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:31.991030",
+  "name": "KING0015",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Lomo De Cerdo Marinado",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:36.249254",
+  "name": "KING0016",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Lomo De Cerdo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:42.093383",
+  "name": "KING0017",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Pierna De Cerdo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:46.311925",
+  "name": "KING0018",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Posta De Cerdo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:50.482936",
+  "name": "KING0019",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Punta De Lomo De Cerdo",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 12:59:56.667903",
+  "name": "KING0020",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Papa 1/4 Golden Phoenix",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:00:03.530465",
+  "name": "KING0021",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Papas Campesinas Golden Phoenix",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:00:07.939693",
+  "name": "KING0022",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Kings - Papas Fritas 3/8 Golden",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:00:13.197645",
+  "name": "KING0023",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Cacique - Pierna Entera Sin Hueso",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:00:36.241635",
+  "name": "MATA0022",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Mirna - Carne Molida de Pollo / CMP-DM",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:00:43.590874",
+  "name": "MIRN0001",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Rico - Alas Picantes",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:00:47.348461",
+  "name": "MOSA0001",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Rico - Filete",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:00:50.989862",
+  "name": "MOSA0006",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Carnic - Carne Molida Res",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:00:54.795310",
+  "name": "NUEV0001",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Carnic - Mondongo Con Patas",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:01:00.418896",
+  "name": "NUEV0013",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Carnic - Posta De Gallina",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:01:04.883282",
+  "name": "NUEV0016",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Carnic - Mondongo Con Pretinas y Patas",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:01:09.813990",
+  "name": "NUEV0024",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Carnic - Signature Posta De Gallina",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:01:13.994721",
+  "name": "NUEV0025",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Sajonia - Chocolate 40%",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.129011",
+  "name": "SAJO0001",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Chocolate 50%",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.145130",
+  "name": "SAJO0002",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Chocolate 72%",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.149493",
+  "name": "SAJO0003",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Chocolate Bote 25 UNDS",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.153905",
+  "name": "SAJO0004",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Tablillas De Chocolate",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.158173",
+  "name": "SAJO0005",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Achiote 454Gr",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.162498",
+  "name": "SAJO0006",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Cafe Casa Real 28 Gr",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.167109",
+  "name": "SAJO0007",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Consome De Pollo 454 Gr",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.171675",
+  "name": "SAJO0009",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Grand Cafe 1 Kg",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.176131",
+  "name": "SAJO0010",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "Sajonia - Grand Cafe 400 Gr",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.180762",
+  "name": "SAJO0011",
+  "uom": "UNIDAD"
+ },
+ {
+  "description": "SK - Pierna De Cerdo S/H Cgl",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.186883",
+  "name": "SUKA0015",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "Jothan - Posta de Gallina",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.191806",
+  "name": "SUKA0029",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Alas",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.196102",
+  "name": "TIP 0006",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Alas Picantes",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.200481",
+  "name": "TIP 0007",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Chincaca",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.205152",
+  "name": "TIP 0009",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Conito",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.209649",
+  "name": "TIP 0010",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Entero S/M  Fresco",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.214101",
+  "name": "TIP 0016",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Entero S/M",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.220052",
+  "name": "TIP 0017",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Muslo C/M",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.224489",
+  "name": "TIP 0022",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Pechuga C/A",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.228397",
+  "name": "TIP 0026",
+  "uom": "LIBRA"
+ },
+ {
+  "description": "TT - Pieza Corte 8 Pieza",
+  "docstatus": 0,
+  "doctype": "Item",
+  "modified": "2025-03-21 13:03:07.232450",
+  "name": "TIP 0032",
+  "uom": "LIBRA"
+ }
+]
