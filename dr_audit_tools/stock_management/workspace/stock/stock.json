@@ -1,0 +1,54 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"XEKUwOcl3l\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Stock</span>\",\"col\":12}},{\"id\":\"fZxnUs1cr_\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"wvNaA4ZX3_\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Entradas de Inventarios\",\"col\":4}},{\"id\":\"Kxws1n8XIf\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Salidas de Inventario\",\"col\":4}},{\"id\":\"RRLUpdpGsc\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Ajuste de Inventario\",\"col\":4}}]",
+ "creation": "2025-03-21 13:57:42.568343",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "stock",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Stock",
+ "links": [],
+ "modified": "2025-03-21 15:51:51.161795",
+ "modified_by": "Administrator",
+ "module": "Stock Management",
+ "name": "Stock",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Entradas de Inventarios",
+   "link_to": "Stock Entry",
+   "stats_filter": "[[\"Stock Entry\",\"type\",\"=\",\"Entrada\",false]]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Salidas de Inventario",
+   "link_to": "Stock Entry",
+   "stats_filter": "[[\"Stock Entry\",\"type\",\"=\",\"Salida\",false]]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Ajuste de Inventario",
+   "link_to": "Stock Entry",
+   "stats_filter": "[[\"Stock Entry\",\"type\",\"=\",\"Ajuste\",false]]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Stock"
+}
